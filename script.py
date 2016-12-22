@@ -1,6 +1,5 @@
 """Test of the Central Limit Theorem"""
 
-import random
 import pandas as pd
 import numpy as np
 
