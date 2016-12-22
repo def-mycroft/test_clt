@@ -20,4 +20,4 @@ Possible improvements:
 * Run this on a computer with more computing power. 
 * Differences amounting to 0.1% don't likely matter in practice \.\.\.
 * ... eHow many samples need to be taken to get a good estimate? 
-* Try using different distributions as input 
+* Try using different distributions as input. It would be interesting to use more real-world data, like stock market data.
