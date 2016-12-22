@@ -12,4 +12,11 @@ Standard Error = Standard Deviation of Sampling Distribution
 
 Standard Error = (Population Standard Deviation) / (sqrt(Sample Size))
 
-After running a million trials, the accuracy was accurate within 0.01 percent.
+After running a million trials, the accuracy was within 0.1 percent. 
+
+Possible improvements: 
+
+* Try with a population of integers instead of floating point numbers.
+* Run this on a computer with more computing power. 
+* Differences amounting to 0.1% don't likely matter in practice \.\.\.
+* ... eHow many samples need to be taken to get a good estimate? 
