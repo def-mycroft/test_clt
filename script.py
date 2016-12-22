@@ -19,7 +19,7 @@ def calc_parameters(series, sample=False):
     stdev = series.std(ddof=0)
 
     # calculate sample stdev if applicable
-    if sample == True:
+    if sample:
         stdev = series.std(ddof=1)
 
     return series.mean(), stdev
