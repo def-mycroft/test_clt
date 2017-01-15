@@ -1,6 +1,6 @@
 # Simple test of the Central Limit Theorem
 
-A program to test the CLT through experimentation.
+A program to test the CLT through experimentation. I wrote this with the goals of learning new aspects of Python libraries and developing a better intuition of the CLT. 
 
 Steps: 
 
